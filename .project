@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>day03</name>
+=======
+	<name>day02</name>
+>>>>>>> refs/remotes/origin_github/master
 	<comment></comment>
 	<projects>
 	</projects>
