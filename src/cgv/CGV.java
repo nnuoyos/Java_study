@@ -32,7 +32,8 @@ public class CGV {
 			choice = Integer.parseInt(JOptionPane.showInputDialog(helloMsg+menuMsg));
 			if(choice == 4) break; //뷰단에서 3번을 선택할 시 나가기 메뉴를 선택하므로 창이 꺼진다
 			//3번 나가기는 위의 if문으로 걸러졌으니, 1과 2번이 아닐 경우 컨티뉴로 되돌아가도록 설정한다
-			if(!(choice >=1 && choice <=3)) continue; 
+			if(!(choice >=1 && choice <=3)) continue;
+			
 			
 				
 			switch(choice) {
