@@ -3,6 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 public class Main {
+	//2775 부녀회장이 될테야
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
